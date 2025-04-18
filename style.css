@@ -1035,7 +1035,7 @@ footer {
 
     /* SECTION 4 */
     #section4 {
-        background-image: url('background.jpeg');
+        background-image: url('background.jpg');
         background-position: center;
         background-size: cover;
     }
@@ -1055,7 +1055,7 @@ footer {
     }
     /* SECTION 6 */
     #section6 {
-        background-image: url('background.jpeg');
+        background-image: url('background.jpg');
     }
 
     .gallery {
@@ -1065,7 +1065,7 @@ footer {
 
     /* SECTION8 */
     #section8 {
-        background-image: url('background.jpeg');
+        background-image: url('background.jpg');
     }
     .thank-you {
         padding: 10px 20px;
@@ -1079,6 +1079,6 @@ footer {
 
     /* SECTION 9 */
     #section9 {
-        background-image: url('background.jpeg');
+        background-image: url('background.jpg');
     }
 }
